@@ -1,6 +1,6 @@
 # Celestial Seeker
 
-**Celestial Seeker** is a collection of automated pipeline in python made to process FITS files that have astronomical imagery and detect celestial objects such as stars, planets, or galaxies.
+**Celestial Seeker** is a collection of automated pipeline in python made to process FITS files that have astronomical imagery and detect celestial objects such as stars, planets, or galaxies, along with satellite position and orbit tracking around the Earth.
 
 ## Detailed Problem Statement
 

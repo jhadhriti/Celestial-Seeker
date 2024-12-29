@@ -6,7 +6,7 @@
 
 In order to run the module, run the python command:-
 
-  ```py
+  ```sh
 python3 celestialseeker.py path/to/fits/file.fits
 ```
 

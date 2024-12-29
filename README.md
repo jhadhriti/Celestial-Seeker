@@ -5,11 +5,13 @@
 ## Running
 
 1. Clone the repository to your local system
+   
      `git clone https://github.com/jhadhriti/Celestial-Seeker`
 
 2. Navigate to your cloned repository folder.
 
 3. Install the dependencies required to run the module.
+   
    `pip3 install -r requirements.txt`
 
 4. In order to run the module, run the python command:-

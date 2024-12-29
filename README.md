@@ -20,6 +20,12 @@
 python3 celestialseeker.py path/to/fits/file.fits
 ```
 
+## Kaggle Notebooks
+
+- https://www.kaggle.com/code/dhriti1015/notebook915deae905/edit/run/215274045
+- https://www.kaggle.com/code/invincible13/astro-object-detector/notebook?scriptVersionId=215313622
+- https://www.kaggle.com/code/invincible13/celestial-obj-det-tester/notebook?scriptVersionId=215317490
+
 ## References
 - [Astropy Documentation](https://docs.astropy.org/en/stable/index.html)
 - [Nasa Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/)

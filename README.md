@@ -67,6 +67,6 @@ For using your own TLE data, just set the `tle_data` equal to the new values. Ru
 - [SGP4 Model PyPI](https://pypi.org/project/sgp4/) 
 - [Simplified Approach to Detect Satellite Maneuvers Using TLE Data and Simplified Perturbation Model Utilizing Orbital Element Variation](https://www.mdpi.com/2076-3417/11/21/10181)
 - [Two-Line Elements (TLE)](https://spire.com/spirepedia/two-line-elements-tle/#:~:text=The%20TLE%20format%20was%20developed,of%20two%20lines%20of%20text.)
-- [Detailed Description of “Two-Line Element (TLE)” Orbital Parameters] (https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119413585.app5)
+- [Detailed Description of “Two-Line Element (TLE)” Orbital Parameters](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119413585.app5)
 - [Improved SSA Through Orbit Determination of Two-Line Element Sets](https://conference.sdo.esoc.esa.int/proceedings/sdc6/paper/153)
 - [UK – Definitions: Event parameter](https://www.monitor-your-satellites.service.gov.uk/page/definitions)
